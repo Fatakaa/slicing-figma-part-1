@@ -9,7 +9,7 @@ body {
     padding-left: 140px;
     padding-top: 40px;
     padding-right: 140px;
-    background: radial-gradient(149.00% 68.25% at 4.91% 53.92%, #232340 33.46%, rgba(22, 22, 40, 0.60) 58.72%, rgba(0, 0, 0, 0.02) 100%), radial-gradient(35.82% 25.27% at 85.43% 4.19%, rgba(0, 0, 0, 0.28) 16.15%, rgba(0, 0, 0, 0.00) 84.53%), radial-gradient(26.75% 26.30% at 69.90% -0.97%, rgba(0, 0, 0, 0.28) 15.16%, rgba(0, 0, 0, 0.00) 79.30%), radial-gradient(33.92% 29.06% at 63.41% -3.63%, rgba(0, 0, 0, 0.28) 22.94%, rgba(0, 0, 0, 0.00) 84.89%), radial-gradient(48.80% 31.27% at 53.79% 2.30%, rgba(0, 0, 0, 0.28) 15.16%, rgba(0, 0, 0, 0.00) 84.82%), url(img/hero-img.jpg), lightgray 50% / cover no-repeat;
+    background: radial-gradient(149.00% 68.25% at 4.91% 53.92%, #232340 33.46%, rgba(22, 22, 40, 0.60) 58.72%, rgba(0, 0, 0, 0.02) 100%), radial-gradient(35.82% 25.27% at 85.43% 4.19%, rgba(0, 0, 0, 0.28) 16.15%, rgba(0, 0, 0, 0.00) 84.53%), radial-gradient(26.75% 26.30% at 69.90% -0.97%, rgba(0, 0, 0, 0.28) 15.16%, rgba(0, 0, 0, 0.00) 79.30%), radial-gradient(33.92% 29.06% at 63.41% -3.63%, rgba(0, 0, 0, 0.28) 22.94%, rgba(0, 0, 0, 0.00) 84.89%), radial-gradient(48.80% 31.27% at 53.79% 2.30%, rgba(0, 0, 0, 0.28) 15.16%, rgba(0, 0, 0, 0.00) 84.82%), url(../img/hero-img.jpg), lightgray 50% / cover no-repeat;
     background-size: 1440px;
 }
 
@@ -290,7 +290,7 @@ body {
     height: 59.583px;
     flex-shrink: 0;
     border-radius: 3.724px;
-    background: url(img/task-today.png), lightgray 50% / cover no-repeat;
+    background: url(../img/task-today.png), lightgray 50% / cover no-repeat;
 }
 
 .name {
@@ -415,7 +415,7 @@ body {
     height: 8.938px;
     border-radius: 74.479px;
     border: 0.559px solid var(--primary-0, #FFF);
-    background: url(img/student1.jpeg), lightgray 50% / cover no-repeat;
+    background: url(../img/student1.jpeg), lightgray 50% / cover no-repeat;
     background-size: 8.938px;
 }
 
@@ -424,7 +424,7 @@ body {
     height: 8.938px;
     border-radius: 74.479px;
     border: 0.559px solid var(--primary-0, #FFF);
-    background: url(img/student2.jpeg), lightgray 50% / cover no-repeat;
+    background: url(../img/student2.jpeg), lightgray 50% / cover no-repeat;
     background-size: 8.938px;
 }
 
@@ -433,7 +433,7 @@ body {
     height: 8.938px;
     border-radius: 74.479px;
     border: 0.559px solid var(--primary-0, #FFF);
-    background: url(img/student3.jpeg), lightgray 50% / cover no-repeat;
+    background: url(../img/student3.jpeg), lightgray 50% / cover no-repeat;
     background-size: 8.938px;
 }
 
@@ -442,7 +442,7 @@ body {
     height: 8.938px;
     border-radius: 74.479px;
     border: 0.559px solid var(--primary-0, #FFF);
-    background: url(img/student4.jpeg), lightgray 50% / cover no-repeat;
+    background: url(../img/student4.jpeg), lightgray 50% / cover no-repeat;
     background-size: 8.938px;
 }
 
@@ -451,7 +451,7 @@ body {
     height: 8.938px;
     border-radius: 74.479px;
     border: 0.559px solid var(--primary-0, #FFF);
-    background: url(img/student5.jpeg), lightgray 50% / cover no-repeat;
+    background: url(../img/student5.jpeg), lightgray 50% / cover no-repeat;
     background-size: 8.938px;
 }
 
@@ -868,7 +868,7 @@ body {
     width: 33.211px;
     height: 33.211px;
     border-radius: 63.867px;
-    background: url(img/profil.jpeg), lightgray 50% / cover no-repeat;
+    background: url(../img/profil.jpeg), lightgray 50% / cover no-repeat;
     background-size: 33.211px;
 }
 
@@ -1255,7 +1255,7 @@ body {
     width: 30.656px;
     height: 30.656px;
     border-radius: 127.734px;
-    background: url(img/foto-mentors1.jpeg), lightgray 50% / cover no-repeat;
+    background: url(../img/foto-mentors1.jpeg), lightgray 50% / cover no-repeat;
     background-size: 30.656px;
 }
 
@@ -1263,7 +1263,7 @@ body {
     width: 30.656px;
     height: 30.656px;
     border-radius: 127.734px;
-    background: url(img/foto-mentors2.png), lightgray 50% / cover no-repeat;
+    background: url(../img/foto-mentors2.png), lightgray 50% / cover no-repeat;
     background-size: 30.656px;
 }
 
@@ -1271,7 +1271,7 @@ body {
     width: 39.789px;
     height: 39.789px;
     border-radius: 127.734px;
-    background: url(img/foto-mentors3.png), lightgray 50% / cover no-repeat;
+    background: url(../img/foto-mentors3.png), lightgray 50% / cover no-repeat;
     background-size: 39.789px;
 }
 
@@ -1529,7 +1529,7 @@ body {
     height: 70.254px;
     flex-shrink: 0;
     border-radius: 6.387px;
-    background: url(img/task1.jpeg), lightgray 0px -85.575px / 100% 318.162% no-repeat;
+    background: url(../img/task1.jpeg), lightgray 0px -85.575px / 100% 318.162% no-repeat;
     background-size: 178.828px;
 }
 
@@ -1538,7 +1538,7 @@ body {
     height: 70.254px;
     flex-shrink: 0;
     border-radius: 6.387px;
-    background: url(img/task2.jpeg), lightgray 0px -85.575px / 100% 318.162% no-repeat;
+    background: url(../img/task2.jpeg), lightgray 0px -85.575px / 100% 318.162% no-repeat;
     background-size: 178.828px;
 }
 
@@ -1697,7 +1697,7 @@ body {
     padding-top: 24px;
     padding-left: 289px;
     flex-shrink: 0;
-    background-image: url(img/info-1.png);
+    background-image: url(../img/info-1.png);
     background-size: 565px;
 }
 
@@ -1707,7 +1707,7 @@ body {
     padding-top: 266px;
     padding-left: 351px;
     flex-shrink: 0;
-    background-image: url(img/info-2.png);
+    background-image: url(../img/info-2.png);
     background-size: 565px;
 }
 
@@ -1717,7 +1717,7 @@ body {
     padding-top: 267px;
     padding-left: 25px;
     flex-shrink: 0;
-    background-image: url(img/info-3.png);
+    background-image: url(../img/info-3.png);
     background-size: 565px;
 }
 
@@ -1725,7 +1725,7 @@ body {
     width: 256px;
     height: 110px;
     flex-shrink: 0;
-    background: url(img/calender.png);
+    background: url(../img/calender.png);
 }
 
 .content-info {
@@ -1739,35 +1739,32 @@ body {
     width: 190px;
     height: 81.5px;
     flex-shrink: 0;
-    background: url(img/content-info1.png), lightgray 50% / cover no-repeat;
+    background: url(../img/content-info1.png), lightgray 50% / cover no-repeat;
 }
 
 .content-info2 {
     width: 190px;
     height: 181.522px;
     flex-shrink: 0;
-    background: url(img/content-info2.png), lightgray 50% / cover no-repeat;
+    background: url(../img/content-info2.png), lightgray 50% / cover no-repeat;
 }
 
 .content-info3 {
     width: 190px;
     height: 181.478px;
     flex-shrink: 0;
-    background: url(img/content-info3.png), lightgray 50% / cover no-repeat;
+    background: url(../img/content-info3.png), lightgray 50% / cover no-repeat;
 }
 
 .content-info4 {
     width: 190px;
     height: 81.5px;
     flex-shrink: 0;
-    background: url(img/content-info4.png), lightgray 50% / cover no-repeat;
+    background: url(../img/content-info4.png), lightgray 50% / cover no-repeat;
 }
 
 .review-section {
     margin-top: 200px;
-    width: 1440px;
-    height: 701px;
-    background-color: violet;
 }
 
 .footer {
@@ -1778,7 +1775,7 @@ body {
     flex-shrink: 0;
     background: var(--dark-blue, #232340);
     display: inline-flex;
-    align-items:flex-start;
+    align-items: flex-start;
     gap: 130px;
 }
 
@@ -1915,6 +1912,7 @@ body {
     align-items: flex-start;
     gap: 16px;
 }
+
 .stay-update {
     width: 268px;
     height: 139px;
@@ -1941,6 +1939,119 @@ body {
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
-    line-height: 160%; /* 22.4px */
+    line-height: 160%;
+    /* 22.4px */
     letter-spacing: 0.14px;
+}
+
+.review-title {
+    margin-bottom: 120px;
+    display: flex;
+    justify-content: center;
+    color: var(--dark-blue, #232340);
+    /* H1/Desktop */
+    font-family: Lexend Deca;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+    /* 128% */
+}
+
+.review-carousel {
+    height: 517px;
+    flex-shrink: 0;
+    padding-left: 160px;
+}
+
+.review-card {
+    display: flex;
+    width: 367px;
+    min-width: 260px;
+    max-width: 367px;
+    padding: 44px 33px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+    background: #FFF;
+    box-shadow: 0px 16px 24px 0px rgba(118, 118, 178, 0.24);
+}
+
+.review-card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    align-self: stretch;
+}
+
+.text-review {
+    flex: 1 0 0;
+    color: rgba(35, 35, 64, 0.90);
+    /* Paragraph/Desktop */
+    font-family: Lexend Deca;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 27px;
+    /* 150% */
+}
+
+.team-review {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    align-self: stretch;
+}
+
+.name-position-team {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+    flex: 1 0 0;
+}
+
+.foto-team {
+    display: flex;
+    width: 52px;
+    height: 52px;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto-team img {
+    border-radius: 52px;
+}
+
+.name-team {
+    align-self: stretch;
+    color: var(--dark-blue, #232340);
+
+    /* H3 */
+    font-family: Lexend Deca;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 125% */
+}
+
+.position-team {
+    align-self: stretch;
+    color: var(--desaturated-blue, #7676B2);
+
+    /* Caption/Desktop */
+    font-family: Lexend Deca;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    /* 164.286% */
+    letter-spacing: 0.14px;
+}
+
+span {
+    font-size: 64px;
+    color: #5468E7;
 }
